@@ -1,0 +1,14 @@
+﻿body {
+  background-color: #F7991C;	
+}
+
+.container, .button-container, .ta_container {
+  text-align:center;
+  margin:auto;
+  padding: 5px;
+  width:80%;
+  height:60%;
+  background-color: #AAAAAA;	
+  border: 1px solid black;
+  
+}
